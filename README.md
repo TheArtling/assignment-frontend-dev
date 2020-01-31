@@ -35,7 +35,7 @@ see something like this:
 ![Cart Popup](cart-popup.png)
 
 We would like you to start the dummy app in this repo and make sure that the
-cart icon of that dummt app looks as close as possible to the original at
+cart icon of that dummy app looks as close as possible to the original at
 theartling.com.
 
 To start the dummy app, please clone your fork of this repo to your disk, then
